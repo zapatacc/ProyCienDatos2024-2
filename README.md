@@ -21,7 +21,7 @@ Este curso consiste de tres módulos.
         - Principios de diseño para aplicaciones escalables de ML.
         - Diferencias entre despliegue batch y online.
    
-`Módulo 3.`  **Desplegando, Monitoreando y Gestionando Modelos de Machine Learning Escalabless**
+`Módulo 3.`  **Desplegando, Monitoreando y Gestionando Modelos de Machine Learning Escalables**
 
    1. Introducción al despliegue de modelos como servicio (Model as a Service).
         - Uso de Docker y APIs para la creación de servicios web.
