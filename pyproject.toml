@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 jupyter = "^1.0.0"
+black = "^24.8.0"
 
 
 [build-system]
