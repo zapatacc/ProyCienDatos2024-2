@@ -12,6 +12,7 @@ black = "^24.8.0"
 fastapi = {extras = ["standard"], version = "^0.112.2"}
 python-dotenv = "^1.0.1"
 sqlalchemy = "^2.0.32"
+anthropic = "^0.34.1"
 
 
 [build-system]
